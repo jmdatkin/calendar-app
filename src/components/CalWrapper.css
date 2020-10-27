@@ -1,0 +1,9 @@
+.CalWrapper {
+    width: 75%;
+    min-width: 600px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #e6e6e6;
+    box-sizing: border-box;
+}
